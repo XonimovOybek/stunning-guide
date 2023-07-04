@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --main-color:#fff;
+    font-size: 10px;
+}
+._exe{
+    width: 100%;
+    height: 100vh;
+}
+.container {
+
+}
+a {
+    text-decoration: none;
+}
+li { 
+    list-style: none;
+}
+.btn {
+    outline: none;
+}
+.d_flex {
+    display: flex;
+    align-items: center;
+}
